@@ -40,7 +40,7 @@ This code runs Python 3.7.0 with the following libraries:
     ```
     
     + Generate inter-aspect graph with  
-    
+  
     ```
     python inter_graph.py
     ```
