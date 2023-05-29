@@ -1,6 +1,6 @@
 # Multi-Feature and Multi-Channel GCNs for Aspect Based Sentiment Analysisk
 
-This repository contains the code for the paper "Multi-Feature and Multi-Channel GCNs for Aspect Based Sentiment Analysis"
+This repository contains the code for the paper "Multi-Feature and Multi-Channel GCNs for Aspect Based Sentiment Analysis".  
 Please cite our paper and kindly give a star for this repository if you use this code.
 ## Setup
 
@@ -33,8 +33,14 @@ You can also create an virtual environments with `conda` by run
    ```
 3. Build aspect-graph and inter-graph 
 	Go to the common folder:
-		Generate aspect-focused graph with python focused_graph.py
-		Generate inter-aspect graph with python inter_graph.py
+		Generate aspect-focused graph with  
+		```
+		python focused_graph.py
+		```
+		Generate inter-aspect graph with 
+		```
+		python inter_graph.py
+		```
 4. Training
 
    Go to Corresponding directory and run scripts:
@@ -58,5 +64,5 @@ Please remove the comments in the code to adapt it to different datasets.
 
 
 ##  Credits
-The code of this repository partly relies on [InterGCN](https://github.com/BinLiang-NLP/InterGCN-ABSA) & [RGAT](https://github.com/goodbai-nlp/RGAT-ABSA/tree/master) & [DM-GCN](https://github.com/pangsg/DM-GCN).
+The code of this repository partly relies on [InterGCN](https://github.com/BinLiang-NLP/InterGCN-ABSA) & [RGAT](https://github.com/goodbai-nlp/RGAT-ABSA/tree/master) & [DM-GCN](https://github.com/pangsg/DM-GCN).  
 I would like to extend my appreciation to the authors of the InterGCN, RGAT, and DMGCN repositories for their valuable contributions.
