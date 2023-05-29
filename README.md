@@ -9,7 +9,6 @@ This code runs Python 3.7.0 with the following libraries:
 + Pytorch  1.13.1+cu116
 + Transformers 2.9.1
 + spacy 2.0.18
-You can also create an virtual environments with `conda` by run
 
 ## Get start
 
