@@ -68,5 +68,5 @@ Please remove the comments in the code to adapt it to different datasets.
 
 
 ##  Credits
-The code of this repository partly relies on [InterGCN](https://github.com/BinLiang-NLP/InterGCN-ABSA) & [RGAT](https://github.com/goodbai-nlp/RGAT-ABSA/tree/master) & [DM-GCN](https://github.com/pangsg/DM-GCN).  
+The code of this repository partly relies on [InterGCN](https://github.com/BinLiang-NLP/InterGCN-ABSA) & [RGAT](https://github.com/goodbai-nlp/RGAT-ABSA) & [DM-GCN](https://github.com/pangsg/DM-GCN).  
 I would like to extend my appreciation to the authors of the InterGCN, RGAT, and DMGCN repositories for their valuable contributions.
