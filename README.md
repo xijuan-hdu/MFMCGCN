@@ -36,7 +36,7 @@ You can also create an virtual environments with `conda` by run
 		Generate aspect-focused graph with  
 		```
 		python focused_graph.py
-		```  
+		``` 
 		Generate inter-aspect graph with  
 		```
 		python inter_graph.py
