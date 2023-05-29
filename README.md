@@ -31,15 +31,20 @@ This code runs Python 3.7.0 with the following libraries:
    bash build_vocab.sh
    ```
 3. Build aspect-graph and inter-graph  
-	Go to the common folder:  
-		Generate aspect-focused graph with  
-		```
-		python focused_graph.py
-		``` 
-		Generate inter-aspect graph with  
-		```
-		python inter_graph.py
-		```
+    + Go to the common folder:  
+    
+    + Generate aspect-focused graph with 
+      
+    ```
+    python focused_graph.py
+    ```
+    
+    + Generate inter-aspect graph with  
+    
+    ```
+    python inter_graph.py
+    ```
+    
 4. Training
 
    Go to Corresponding directory and run scripts:
