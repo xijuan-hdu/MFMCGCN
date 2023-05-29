@@ -31,8 +31,8 @@ You can also create an virtual environments with `conda` by run
    ```
    bash build_vocab.sh
    ```
-3. Build aspect-graph and inter-graph 
-	Go to the common folder:
+3. Build aspect-graph and inter-graph  
+	Go to the common folder:  
 		Generate aspect-focused graph with  
 		```
 		python focused_graph.py
