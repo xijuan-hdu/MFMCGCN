@@ -1,0 +1,172 @@
+[
+    {
+        "token": [
+            "Boot",
+            "time",
+            "is",
+            "super",
+            "fast",
+            ",",
+            "around",
+            "anywhere",
+            "from",
+            "35",
+            "seconds",
+            "to",
+            "1",
+            "minute",
+            "."
+        ],
+        "pos": [
+            "NN",
+            "NN",
+            "VBZ",
+            "JJ",
+            "RB",
+            ",",
+            "RB",
+            "RB",
+            "IN",
+            "CD",
+            "NNS",
+            "TO",
+            "CD",
+            "NN",
+            "."
+        ],
+        "head": [
+            "2",
+            "4",
+            "4",
+            "0",
+            "4",
+            "4",
+            "8",
+            "4",
+            "11",
+            "11",
+            "8",
+            "14",
+            "14",
+            "11",
+            "4"
+        ],
+        "deprel": [
+            "compound",
+            "nsubj",
+            "cop",
+            "root",
+            "advmod",
+            "punct",
+            "advmod",
+            "advmod",
+            "case",
+            "nummod",
+            "nmod",
+            "case",
+            "nummod",
+            "nmod",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "Boot",
+                    "time"
+                ],
+                "from": 0,
+                "to": 2,
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "token": [
+            "tech",
+            "support",
+            "would",
+            "not",
+            "fix",
+            "the",
+            "problem",
+            "unless",
+            "I",
+            "bought",
+            "your",
+            "plan",
+            "for",
+            "$",
+            "150",
+            "plus",
+            "."
+        ],
+        "pos": [
+            "NN",
+            "NN",
+            "MD",
+            "RB",
+            "VB",
+            "DT",
+            "NN",
+            "IN",
+            "PRP",
+            "VBD",
+            "PRP$",
+            "NN",
+            "IN",
+            "$",
+            "CD",
+            "CC",
+            "."
+        ],
+        "head": [
+            "2",
+            "5",
+            "5",
+            "5",
+            "0",
+            "7",
+            "5",
+            "10",
+            "10",
+            "5",
+            "12",
+            "10",
+            "15",
+            "15",
+            "10",
+            "15",
+            "5"
+        ],
+        "deprel": [
+            "compound",
+            "nsubj",
+            "aux",
+            "neg",
+            "root",
+            "det",
+            "dobj",
+            "mark",
+            "nsubj",
+            "advcl",
+            "nmod",
+            "dobj",
+            "case",
+            "dep",
+            "nmod",
+            "advmod",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "tech",
+                    "support"
+                ],
+                "from": 0,
+                "to": 2,
+                "polarity": "negative"
+            }
+        ]
+    }
+]

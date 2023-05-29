@@ -1,0 +1,357 @@
+[
+    {
+        "token": [
+            "Also",
+            ",",
+            "the",
+            "staff",
+            "is",
+            "very",
+            "attentive",
+            "and",
+            "really",
+            "personable",
+            "."
+        ],
+        "pos": [
+            "RB",
+            ",",
+            "DT",
+            "NN",
+            "VBZ",
+            "RB",
+            "JJ",
+            "CC",
+            "RB",
+            "JJ",
+            "."
+        ],
+        "head": [
+            "7",
+            "7",
+            "4",
+            "7",
+            "7",
+            "7",
+            "0",
+            "7",
+            "10",
+            "7",
+            "7"
+        ],
+        "deprel": [
+            "advmod",
+            "punct",
+            "det",
+            "nsubj",
+            "cop",
+            "advmod",
+            "root",
+            "cc",
+            "advmod",
+            "conj",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "staff"
+                ],
+                "from": 3,
+                "to": 4,
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "token": [
+            "The",
+            "spicy",
+            "mussels",
+            "are",
+            "a",
+            "highlight",
+            "."
+        ],
+        "pos": [
+            "DT",
+            "JJ",
+            "NNS",
+            "VBP",
+            "DT",
+            "NN",
+            "."
+        ],
+        "head": [
+            "3",
+            "3",
+            "6",
+            "6",
+            "6",
+            "0",
+            "6"
+        ],
+        "deprel": [
+            "det",
+            "amod",
+            "nsubj",
+            "cop",
+            "det",
+            "root",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "spicy",
+                    "mussels"
+                ],
+                "from": 1,
+                "to": 3,
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "token": [
+            "Also",
+            "get",
+            "the",
+            "Onion",
+            "Rings",
+            "--",
+            "best",
+            "we",
+            "'ve",
+            "ever",
+            "had",
+            "."
+        ],
+        "pos": [
+            "RB",
+            "VB",
+            "DT",
+            "NNP",
+            "NNP",
+            ":",
+            "JJS",
+            "PRP",
+            "VBP",
+            "RB",
+            "VBN",
+            "."
+        ],
+        "head": [
+            "2",
+            "0",
+            "5",
+            "5",
+            "2",
+            "2",
+            "11",
+            "11",
+            "11",
+            "11",
+            "2",
+            "2"
+        ],
+        "deprel": [
+            "advmod",
+            "root",
+            "det",
+            "compound",
+            "dobj",
+            "punct",
+            "advmod",
+            "nsubj",
+            "aux",
+            "advmod",
+            "parataxis",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "Onion",
+                    "Rings"
+                ],
+                "from": 3,
+                "to": 5,
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "token": [
+            "However",
+            ",",
+            "being",
+            "foodies",
+            ",",
+            "we",
+            "were",
+            "utterly",
+            "disappointed",
+            "with",
+            "the",
+            "food",
+            "."
+        ],
+        "pos": [
+            "RB",
+            ",",
+            "VBG",
+            "NNS",
+            ",",
+            "PRP",
+            "VBD",
+            "RB",
+            "VBN",
+            "IN",
+            "DT",
+            "NN",
+            "."
+        ],
+        "head": [
+            "9",
+            "9",
+            "4",
+            "9",
+            "9",
+            "9",
+            "9",
+            "9",
+            "0",
+            "12",
+            "12",
+            "9",
+            "9"
+        ],
+        "deprel": [
+            "advmod",
+            "punct",
+            "cop",
+            "advcl",
+            "punct",
+            "nsubjpass",
+            "auxpass",
+            "advmod",
+            "root",
+            "case",
+            "det",
+            "nmod",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "food"
+                ],
+                "from": 11,
+                "to": 12,
+                "polarity": "negative"
+            }
+        ]
+    },
+    {
+        "token": [
+            "the",
+            "mushroom",
+            "barley",
+            "soup",
+            "is",
+            "amazing",
+            "."
+        ],
+        "pos": [
+            "DT",
+            "NN",
+            "NN",
+            "NN",
+            "VBZ",
+            "JJ",
+            "."
+        ],
+        "head": [
+            "4",
+            "4",
+            "4",
+            "6",
+            "6",
+            "0",
+            "6"
+        ],
+        "deprel": [
+            "det",
+            "compound",
+            "compound",
+            "nsubj",
+            "cop",
+            "root",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "mushroom",
+                    "barley",
+                    "soup"
+                ],
+                "from": 1,
+                "to": 4,
+                "polarity": "positive"
+            }
+        ]
+    },{
+        "token": [
+            "Their",
+            "duck",
+            "here",
+            "is",
+            "also",
+            "absolutely",
+            "delicious",
+            "."
+        ],
+        "pos": [
+            "PRP$",
+            "NN",
+            "RB",
+            "VBZ",
+            "RB",
+            "RB",
+            "JJ",
+            "."
+        ],
+        "head": [
+            "2",
+            "7",
+            "2",
+            "7",
+            "7",
+            "7",
+            "0",
+            "7"
+        ],
+        "deprel": [
+            "nmod",
+            "nsubj",
+            "advmod",
+            "cop",
+            "advmod",
+            "advmod",
+            "root",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "duck"
+                ],
+                "from": 1,
+                "to": 2,
+                "polarity": "positive"
+            }
+        ]
+    }
+]

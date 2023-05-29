@@ -1,0 +1,431 @@
+[{
+        "token": [
+            "I",
+            "love",
+            "the",
+            "drinks",
+            ",",
+            "esp",
+            "lychee",
+            "martini",
+            ",",
+            "and",
+            "the",
+            "food",
+            "is",
+            "also",
+            "VERY",
+            "good",
+            "."
+        ],
+        "pos": [
+            "PRP",
+            "VBP",
+            "DT",
+            "NNS",
+            ",",
+            "NN",
+            "NN",
+            "NN",
+            ",",
+            "CC",
+            "DT",
+            "NN",
+            "VBZ",
+            "RB",
+            "RB",
+            "JJ",
+            "."
+        ],
+        "head": [
+            "2",
+            "0",
+            "4",
+            "2",
+            "4",
+            "8",
+            "8",
+            "4",
+            "2",
+            "2",
+            "12",
+            "16",
+            "16",
+            "16",
+            "16",
+            "2",
+            "2"
+        ],
+        "deprel": [
+            "nsubj",
+            "root",
+            "det",
+            "dobj",
+            "punct",
+            "det",
+            "amod",
+            "conj",
+            "punct",
+            "cc",
+            "det",
+            "nsubj",
+            "cop",
+            "advmod",
+            "advmod",
+            "conj",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "drinks"
+                ],
+                "from": 3,
+                "to": 4,
+                "polarity": "positive"
+            },
+            {
+                "term": [
+                    "lychee",
+                    "martini"
+                ],
+                "from": 6,
+                "to": 8,
+                "polarity": "positive"
+            },
+            {
+                "term": [
+                    "food"
+                ],
+                "from": 11,
+                "to": 12,
+                "polarity": "positive"
+            }
+        ]
+    },
+{
+        "token": [
+            "BEST",
+            "spicy",
+            "tuna",
+            "roll",
+            ",",
+            "great",
+            "asian",
+            "salad",
+            "."
+        ],
+        "pos": [
+            "RB",
+            "JJ",
+            "NN",
+            "NN",
+            ",",
+            "JJ",
+            "JJ",
+            "NN",
+            "."
+        ],
+        "head": [
+            "2",
+            "4",
+            "4",
+            "0",
+            "4",
+            "8",
+            "8",
+            "4",
+            "4"
+        ],
+        "deprel": [
+            "advmod",
+            "amod",
+            "compound",
+            "root",
+            "punct",
+            "amod",
+            "amod",
+            "appos",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "asian",
+                    "salad"
+                ],
+                "from": 6,
+                "to": 8,
+                "polarity": "positive"
+            },
+            {
+                "term": [
+                    "spicy",
+                    "tuna",
+                    "roll"
+                ],
+                "from": 1,
+                "to": 4,
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "token": [
+            "The",
+            "food",
+            "was",
+            "extremely",
+            "tasty",
+            ",",
+            "creatively",
+            "presented",
+            "and",
+            "the",
+            "wine",
+            "excellent",
+            "."
+        ],
+        "pos": [
+            "DT",
+            "NN",
+            "VBD",
+            "RB",
+            "JJ",
+            ",",
+            "RB",
+            "VBN",
+            "CC",
+            "DT",
+            "NN",
+            "JJ",
+            "."
+        ],
+        "head": [
+            "2",
+            "5",
+            "5",
+            "5",
+            "0",
+            "5",
+            "8",
+            "5",
+            "5",
+            "11",
+            "12",
+            "5",
+            "5"
+        ],
+        "deprel": [
+            "det",
+            "nsubj",
+            "cop",
+            "advmod",
+            "root",
+            "punct",
+            "advmod",
+            "conj",
+            "cc",
+            "det",
+            "dep",
+            "conj",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "food"
+                ],
+                "from": 1,
+                "to": 2,
+                "polarity": "positive"
+            },
+            {
+                "term": [
+                    "wine"
+                ],
+                "from": 10,
+                "to": 11,
+                "polarity": "positive"
+            }
+        ]
+    },
+    {
+        "token": [
+            "Sandwiches",
+            ",",
+            "burgers",
+            "and",
+            "salads",
+            ",",
+            "like",
+            "the",
+            "lemon-dressed",
+            "cobb",
+            ",",
+            "are",
+            "classic",
+            "successes",
+            "."
+        ],
+        "pos": [
+            "NNS",
+            ",",
+            "NNS",
+            "CC",
+            "NNS",
+            ",",
+            "IN",
+            "DT",
+            "JJ",
+            "NN",
+            ",",
+            "VBP",
+            "JJ",
+            "NNS",
+            "."
+        ],
+        "head": [
+            "14",
+            "1",
+            "1",
+            "1",
+            "1",
+            "1",
+            "10",
+            "10",
+            "10",
+            "1",
+            "1",
+            "14",
+            "14",
+            "0",
+            "14"
+        ],
+        "deprel": [
+            "nsubj",
+            "punct",
+            "conj",
+            "cc",
+            "conj",
+            "punct",
+            "case",
+            "det",
+            "amod",
+            "nmod",
+            "punct",
+            "cop",
+            "amod",
+            "root",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "Sandwiches"
+                ],
+                "from": 0,
+                "to": 1,
+                "polarity": "positive"
+            },
+            {
+                "term": [
+                    ",",
+                    "burgers"
+                ],
+                "from": 1,
+                "to": 3,
+                "polarity": "positive"
+            },
+            {
+                "term": [
+                    "salads"
+                ],
+                "from": 4,
+                "to": 5,
+                "polarity": "positive"
+            },
+            {
+                "term": [
+                    "lemon-dressed",
+                    "cobb"
+                ],
+                "from": 8,
+                "to": 10,
+                "polarity": "positive"
+            }
+        ]
+    },
+     {
+        "token": [
+            "However",
+            ",",
+            "being",
+            "foodies",
+            ",",
+            "we",
+            "were",
+            "utterly",
+            "disappointed",
+            "with",
+            "the",
+            "food",
+            "."
+        ],
+        "pos": [
+            "RB",
+            ",",
+            "VBG",
+            "NNS",
+            ",",
+            "PRP",
+            "VBD",
+            "RB",
+            "VBN",
+            "IN",
+            "DT",
+            "NN",
+            "."
+        ],
+        "head": [
+            "9",
+            "9",
+            "4",
+            "9",
+            "9",
+            "9",
+            "9",
+            "9",
+            "0",
+            "12",
+            "12",
+            "9",
+            "9"
+        ],
+        "deprel": [
+            "advmod",
+            "punct",
+            "cop",
+            "advcl",
+            "punct",
+            "nsubjpass",
+            "auxpass",
+            "advmod",
+            "root",
+            "case",
+            "det",
+            "nmod",
+            "punct"
+        ],
+        "aspects": [
+            {
+                "term": [
+                    "food"
+                ],
+                "from": 11,
+                "to": 12,
+                "polarity": "negative"
+            }
+        ]
+    }
+]
