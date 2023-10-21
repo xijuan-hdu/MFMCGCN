@@ -1,4 +1,4 @@
-# Multi-Feature and Multi-Channel GCNs for Aspect Based Sentiment Analysisk
+# Multi-Feature and Multi-Channel GCNs for Aspect Based Sentiment Analysis
 
 This repository contains the code for the paper "Multi-Feature and Multi-Channel GCNs for Aspect Based Sentiment Analysis".  
 Please cite our paper and kindly give a star for this repository if you use this code.
